@@ -1,11 +1,11 @@
 <h2 align="left">Hi 👋!  My name is Mangalmurti Wagh</h2>
 
-##
+###
 
 <div align="center">
 </div>
 
-###
+####
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
